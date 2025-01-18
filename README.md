@@ -32,3 +32,8 @@ This project demonstrates the use of wireshark for analysing network traffic and
 -Exported findings into a report.
 ## Disclaimer
 This project is for educational purpose only.
+
+## Nmap Scan Results
+This project contains the results of an Nmap Scan 
+conducted on my phone's IP address.
+The goal is to showcase hoe to use Nmap for network Exploration and security auditing.
