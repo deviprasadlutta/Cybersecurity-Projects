@@ -13,3 +13,21 @@ This project demonstrates using john the ripper for cracking password hashes for
 
 ## Results
 Cracked password: devi112233.
+
+
+# Wireshark Network Analysis Project 
+## Overview
+This project demonstrates the use of wireshark for analysing network traffic and identifying potential vulnerabilities.
+## Tools used
+-Wireshark
+-Hostapd
+## Objectives
+-Setup a basic network using the virtual router.
+-use wireshark and analyse network packets for HTTP, DNS, and TCP traffic.
+-identify anomalies or suspecious activity.
+## Procedure
+-Set up a network of two devices and connect them using the virtual router hostapd.
+-use wireshark and capture live traffic.
+-Exported findings into a report.
+## Disclaimer
+This project is for educational purpose only.
