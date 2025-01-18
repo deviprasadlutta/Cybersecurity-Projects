@@ -13,6 +13,7 @@ This project demonstrates using john the ripper for cracking password hashes for
 
 ## Results
 Cracked password: devi112233.
+This project is for educational purpose only. 
 
 
 # Wireshark Network Analysis Project 
